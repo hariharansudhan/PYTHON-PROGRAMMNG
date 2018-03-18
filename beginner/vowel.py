@@ -3,4 +3,4 @@ a=raw_input()
 if a in skr:
 	print("Vowel")
 else:
-	print("not a Vowel")
+	print("Consonant")
